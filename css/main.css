@@ -73,6 +73,9 @@ display:block;
   display: none !important;
 }
 
+.rating {
+  display: none !important;
+}
 
 .product-tile_discounts,
 .product-discount,
